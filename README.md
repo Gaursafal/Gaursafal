@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ... Mongodb
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... Node.js
-- 💬 Ask me about ... anything
 - 📫 How to reach me: ... safalsinghgaur@gmail.com
   <p>
   <a href="https://www.linkedin.com/in/safal-singh-gaur-825885175/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +22,7 @@
    <img src="https://img.shields.io/badge/Bootstrap%20-%23e34f26.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
  </p>
   <p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=gaursafal&theme=dark&show_icons=true&count_private=true" height="207px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaursafal&theme=dark&show_icons=true&count_private=true" height="245px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaursafal&theme=tokyonight"/>
 </P>
 
