@@ -23,7 +23,7 @@
  </p>
   <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api?username=gaursafal&theme=dark&show_icons=true&count_private=true" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaursafal&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaursafal&theme=tokyonight"  height="200px"/>
 </P>
 
 <p align = "center">
