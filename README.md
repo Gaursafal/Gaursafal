@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Safal Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaursafal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+<img src="https://camo.githubusercontent.com/646439aea2fcd5e2492c7b7b4fe809b69892957b762ef990cd3291a3d0c4c7d7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72696368616368617568616e3539267468656d653d6461726b"/>
