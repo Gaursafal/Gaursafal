@@ -22,7 +22,7 @@
    <img src="https://img.shields.io/badge/Bootstrap%20-%23e34f26.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
  </p>
   <p align='left'>
-  <img src="https://github-readme-stats.vercel.app/api?username=gaursafal&theme=dark&show_icons=true&count_private=true" height="245px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaursafal&theme=dark&show_icons=true&count_private=true" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaursafal&theme=tokyonight"/>
 </P>
 
